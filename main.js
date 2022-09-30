@@ -1,4 +1,4 @@
-object = [];
+objects = [];
 var status = " ";
 
 function preload(){
